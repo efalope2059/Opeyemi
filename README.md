@@ -1,2 +1,2 @@
 # Opeyemi
-Newest release of my persona; website : www.efalope.com
+Newest release of my personal website : www.efalope.com
