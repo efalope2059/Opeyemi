@@ -1,0 +1,19 @@
+{
+  "name": "opeyemi",
+  "version": "1.0.0",
+  "description": "Elijah's Personal Website",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/efalope2059/Opeyemi.git"
+  },
+  "author": "Elijah Falope",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/efalope2059/Opeyemi/issues"
+  },
+  "homepage": "https://github.com/efalope2059/Opeyemi#readme"
+}
